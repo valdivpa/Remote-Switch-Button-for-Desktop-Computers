@@ -1,0 +1,10 @@
+# Only publish the Blynk_Arduino* sketches
+/*
+!/.gitignore
+!/README.md
+!/Blynk_Arduino*/
+
+# Credentials (see arduino_secrets.h.example in each sketch)
+arduino_secrets.h
+
+.DS_Store
