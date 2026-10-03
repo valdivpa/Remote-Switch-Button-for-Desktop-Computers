@@ -4,6 +4,11 @@
 !/README.md
 !/Blynk_Arduino*/
 
+# Only the wiring diagram from this folder
+!/Blynk_Connection_Testing/
+/Blynk_Connection_Testing/*
+!/Blynk_Connection_Testing/Fritzing Diagram.png
+
 # Credentials (see arduino_secrets.h.example in each sketch)
 arduino_secrets.h
 
