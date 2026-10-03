@@ -1,5 +1,4 @@
-// Copy this file to arduino_secrets.h and fill in your own values.
-// arduino_secrets.h is ignored by git.
+// Replace these values with your own Blynk and WiFi credentials.
 
 #define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"

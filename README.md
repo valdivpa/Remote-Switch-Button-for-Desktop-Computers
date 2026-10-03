@@ -16,4 +16,4 @@ All sketches press the power button (500 ms relay pulse on pin 2) when virtual p
 
 ## Setup
 
-In each sketch folder, copy `arduino_secrets.h.example` to `arduino_secrets.h` and fill in your Blynk template, auth token and WiFi credentials. `arduino_secrets.h` is ignored by git.
+In each sketch folder, open `arduino_secrets.h` and replace the placeholder values with your Blynk template, auth token and WiFi credentials.
