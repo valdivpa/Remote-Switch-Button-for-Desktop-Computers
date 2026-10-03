@@ -4,7 +4,7 @@ Turn on a desktop PC remotely from the Blynk app using an Arduino UNO R4 WiFi an
 
 ## Wiring
 
-![Fritzing Diagram](Blynk_Connection_Testing/Fritzing%20Diagram.png)
+![Fritzing Diagram](Fritzing%20Diagram.png)
 
 ## Sketches
 
